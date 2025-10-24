@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Clases-Acadion")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Acadion-Sistema de gestion universitario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca9aa5b139d00e75564ea0a780046c62e684c717")]
-[assembly: System.Reflection.AssemblyProductAttribute("Clases-Acadion")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Clases-Acadion")]
+[assembly: System.Reflection.AssemblyProductAttribute("Acadion-Sistema de gestion universitario")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Acadion-Sistema de gestion universitario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
